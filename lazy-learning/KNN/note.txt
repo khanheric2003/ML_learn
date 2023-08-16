@@ -1,0 +1,8 @@
+KNN là một thuật toán lazy learning, không có hàm mất mát nào và bài toán tối ưu nào
+phải thực hiện trong quá trình huấn luyện.
+
+Mọi tính toán được thực hiện ở bước kiểm thử.
+
+Vì KNN ra quyết định dựa trên các điểm gần nhất nên có hai vấn đề ta cần lưu tâm. 
+- Thứ nhất, khoảng cách được định nghĩa như thế nào. 
+- Thứ hai, cần phải tính toán khoảng cách như thế nào cho hiệu quả.
